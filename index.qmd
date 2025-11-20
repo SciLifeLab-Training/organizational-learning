@@ -1,21 +1,16 @@
 ---
-title: "Course announcement"
-author: "Cat Halthur"
+title: "Spring 2026 Organizational Learning"
+author: "Jill Jaworski"
 date: today
 ---
 
 ## When and where
 
-21 - 22 March 2024
+March 25-26, 2026, from 9:30-16:30 each day, in person
 
-Air&Fire, SciLifeLab Stockholm
+Air & Fire Rooms, SciLifeLab Stockholm
 Tomtebodavägen 23A
 Solna, Sweden  
-
-<br>
-<a class="nice-button" href="https://forms.gle/5F7NWfUMEmCFLgDQ8"> Register
-</a>
-
 
 ## How do we build a collaborative and innovative workplace?
 
@@ -51,12 +46,12 @@ No prior knowledge of organisational learning, management or individual learning
 
 
 ## Course fee
-There is no course attendance fee. 
+There is a fee associated with this course. 
 
 ## Selection criteria
 Due to limited space, the course accommodates a maximum of 25 participants. If we receive more applications, participants will be selected based on selection criteria such as correct entry requirements, motivation to attend the course as well as gender and geographical balance.
 
 ## Important dates
-Application open: Jan 25, 2024
+Application open: Late November, 2025
 
 For further questions, please contact us at traininghub@scilifelab.se.
