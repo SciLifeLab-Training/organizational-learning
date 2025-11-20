@@ -1,40 +1,12 @@
 ---
 title: "Schedule"
-author: "Cat Halthur"
+author: "Jill Jaworski"
 date: today
 ---
 
 ### Preliminary schedule
 
-| Day 1 | 21 March |
-|-----------|:---------|
-| 9.30      | Welcome and short introduction to the course |
-| 10.00       | [Module 1](module1.qmd) - Introduction to Organisational Learning   <br> What is Organisational learning, and how is it related to work performance? |
-| 10.30       | **Coffe and reflections** |
-| 11.00       | [Module 2](module2.qmd) - Basic concepts of learning Part 1: <br> The learning concepts of Individual learning |
-| 12.30       | **Lunch** |
-| 13.30      | [Module 2](module2.qmd) - Basic concepts of Individual learning Part 2: <br> How the learning concepts apply to Group learning  |
-| 14.30     | **Coffe and reflections** |
-| 15.00 | [Module 2](module2.qmd) Basic concepts of Individual learning Part 3: <br> How the learning concepts apply to Organisational Learning |
- 16.00 | End of day |
+*Day 1: March 25, 2026, held from 9:30-16:30m in person* 
 
-: {tbl-colwidths="[25,75]"}
-
-| Day 2 | 22 March |
-|-----------|:---------|
-| 9.00      | [Module 3](module3.qmd) - Principles and theories of Organisational learning <br> Which are the principles of organisational learning, and how does it manifest in practice? |
-| 10.30    | **Coffe and reflections** |
-| 11.00    | [Module 3](module3.qmd) - Principles and theories of Organisational learning <br> The building blocks of organisational learning, and concrete examples of organisational learning activities | 
-| 12.00       | **Lunch** |
-| 13.00      | [Module 4](module4.qmd) - Practical Approaches to Organisational Learning <br> How do we implement organisational learning and build long-time impact?  |
-| 14.00  | **Coffee and group exercise** - building organisational learning |
-| 15.00  | Group discussions and a wrap-up |
-| 16.00  | End of course |
-
-
-: {tbl-colwidths="[25,75]"}
-
-
-### Spring 2024:
-After the course an optional follow-up session will be held online. Exact date will be decided by the participants.
+*Day 2: March 26, 2026, held from 9:30-16:30m in person
 
