@@ -3,3 +3,10 @@ title: "Module 4"
 author: "Cat Halthur"
 date: today
 ---
+
+## Day 2: Afternoon
+### Organizational Learning and SciLifeLab
+
+- Case studies 
+- Practical discussions 
+- Reflections on experiences with SciLifeLab 
