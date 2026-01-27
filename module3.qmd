@@ -1,6 +1,6 @@
 ---
 title: "Module 3"
-author: "Cat Halthur"
+author: "Jill Jaworski"
 date: today
 ---
 ## Day 2: Morning 
