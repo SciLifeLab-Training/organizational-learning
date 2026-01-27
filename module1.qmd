@@ -4,10 +4,6 @@ author: "Jill Jaworski"
 date: today
 ---
 
-::: {.callout-tip}
-### Learning Objectives
-
-
 *Day 1: Morning* 
 
 - What is Organizational Learning? Different perspectives, different cases
