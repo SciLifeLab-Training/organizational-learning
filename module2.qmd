@@ -4,8 +4,10 @@ author: "Cat Halthur"
 date: today
 ---
 
-::: {.callout-tip}
-### Learning Objectives
-
-- TBA
-:::
+*Day 1: Afternoon* 
+- What are practical strategies to implement OL in organizations? What strategies work best for different organizations? 
+- Journal clubs 
+- Onboarding practices for new staff
+- Preserving knowledge and offboarding staff
+- Sharing and spreading knowledge 
+- Sharing Experiences 
