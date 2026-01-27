@@ -4,7 +4,7 @@ author: "Cat Halthur"
 date: today
 ---
 ## Day 2: Morning 
-### What are the concepts of organisational learning, and how do they manifest in practice?
+### Organizational Learning, Power structures, and IDEA
 
 - Power, leadership, growth, evolution, individual and collective memory
 - IDEA: Diversity, Equity, Inclusion, Accessibility 
