@@ -4,7 +4,8 @@ author: "Jill Jaworski"
 date: today
 ---
 
-*Day 1: Morning* 
+## Day 1: Afernoon 
+### What are the concepts of organisational learning, and how do they manifest in practice?
 
 - What is Organizational Learning? Different perspectives, different cases
 - Why is Organizational Learning important? 
