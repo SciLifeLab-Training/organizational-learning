@@ -5,6 +5,7 @@ date: today
 ---
 
 *Day 1: Afternoon* 
+
 - What are practical strategies to implement OL in organizations? What strategies work best for different organizations? 
 - Journal clubs 
 - Onboarding practices for new staff
