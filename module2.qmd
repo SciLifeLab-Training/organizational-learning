@@ -4,7 +4,7 @@ author: "Cat Halthur"
 date: today
 ---
 
-## Day 1: Morning
+## Day 1: Afternoon
 ### Organizational Learning and strategies for knowledge transfer and preservation
 
 - What are practical strategies to implement OL in organizations? What strategies work best for different organizations? 
