@@ -1,12 +1,22 @@
 ---
 title: "Module 1"
-author: "Cat Halthur"
+author: "Jill Jaworski"
 date: today
 ---
 
 ::: {.callout-tip}
 ### Learning Objectives
 
-- TBA
-:::
+
+*Day 1: Morning* 
+
+- What is Organizational Learning? Different perspectives, different cases
+- Why is Organizational Learning important? 
+- What happens when there is a lack of OL or that organizations do not learn? 
+- How does an organization learn? Conditions, practices, leadership, case studies 
+- What is a “learning organization”? 
+- Knowledge retention strategies and case studies
+- Knowledge sharing strategies and case studies
+
+
 
