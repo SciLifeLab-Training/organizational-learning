@@ -1,6 +1,6 @@
 ---
 title: "Module 2"
-author: "Cat Halthur"
+author: "Jill Jaworski"
 date: today
 ---
 
