@@ -45,5 +45,7 @@ date: today
 
 - Case studies 
 - Practical discussions 
-- Reflections on experiences with SciLifeLab 
+- Reflections on experiences with SciLifeLab
+- Course feedback and wrap up
+
 
